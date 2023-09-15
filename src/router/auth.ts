@@ -1,8 +1,7 @@
-const express = require("express");
-const auth = require("../controllers/authController");
-const isAuthenticated = require("../middleware/auth");
-const router = express.Router();
-
+import { Router } from "express";
+const router: Router = Router();
+import isAuthenticated from "../middleware/auth";
+import * as auth from '../controllers/authController'
 //get
 router.route("/logout").get(auth.logout);
 //post
@@ -15,4 +14,4 @@ router.route("/forgotPassword").post(auth.forgotPassword);
 router.route("/resetPassword").put(auth.resetPassword);
 router.route("/updatePassword").put(isAuthenticated, auth.updatePassword);
 
-module.exports = router;
+export default router;

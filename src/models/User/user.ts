@@ -1,11 +1,13 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
-const bcrypt = require("bcryptjs");
-const jwt = require("jsonwebtoken");
-const dotenv = require("dotenv");
-const validator = require("validator");
+import mongoose, { Schema } from "mongoose";
+import bcrypt from "bcryptjs";
+import jwt from "jsonwebtoken";
+import dotenv from "dotenv";
+import validator from "validator";
 dotenv.config({ path: ".././src/config/config.env" });
-const userSchema = new Schema({
+import {UserDocument} from '../../types/models/user.types'
+
+
+const userSchema = new Schema<UserDocument>({
   name: {
     type: String,
     required: true,
@@ -14,7 +16,7 @@ const userSchema = new Schema({
     type: String,
     required: true,
     unique: true,
-    validate(value) {
+    validate(value: string) {
       if (!validator.isEmail(value)) {
         throw new Error("Invalid Email");
       }
@@ -23,16 +25,15 @@ const userSchema = new Schema({
   password: {
     type: String,
     required: true,
-    //validation will be before saving to db
+  },
+  phone: {
+    type: String,
+    required: true,
   },
   role: {
     type: String,
-    enum: ["user", "admin"],
-    default: "user",
-  },
-  createdAt: {
-    type: Date,
-    default: Date.now(),
+    enum: ["supplier", "dropshipper"],
+    default: "supplier",
   },
   emailVerified: {
     type: Boolean,
@@ -59,24 +60,27 @@ const userSchema = new Schema({
   },
 });
 
-//hash password before saving
-userSchema.pre("save", async function (next) {
-  if (!this.isModified("password")) return next;
+// Hash password before saving
+userSchema.pre("save", async function (this: UserDocument, next) {
+  if (!this.isModified("password")) return next();
   const salt = await bcrypt.genSalt(10);
   this.password = await bcrypt.hash(this.password, salt);
   next();
 });
 
-//jwtToken
-userSchema.methods.getJWTToken = function () {
+// JWT Token
+userSchema.methods.getJWTToken = function (this: UserDocument) {
   return jwt.sign({ _id: this._id }, process.env.JWT_SECRET);
 };
 
-//compare password
-userSchema.methods.comparePassword = async function (enteredPassword) {
+// Compare password
+userSchema.methods.comparePassword = async function (
+  this: UserDocument,
+  enteredPassword: string
+) {
   return await bcrypt.compare(enteredPassword, this.password);
 };
 
-const user = mongoose.model("user", userSchema);
+const User = mongoose.model<UserDocument>("User", userSchema);
 
-module.exports = user;
+export default User;
