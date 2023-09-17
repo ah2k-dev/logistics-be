@@ -1,6 +1,6 @@
 import  { Request, Response } from 'express';
 import User from "../models/User/user";
-import { UserDocument } from '../types/models/user.types';
+import { UserDocument } from '../types/models/User/user.types';
 import SuccessHandler from "../utils/SuccessHandler"
 import sendMail from '../utils/sendMail'
 import ErrorHandler from '../utils/ErrorHandler'
@@ -17,7 +17,7 @@ declare global {
   // #swagger.tags = ['auth']
   
   try {
-    const { name, email, password, phone, role }:RegisterUserRequest = req.body;
+    const { firstName, lastName,email, password, phone, role }:RegisterUserRequest = req.body;
     if (
       !password.match(
         /(?=[A-Za-z0-9@#$%^&+!=]+$)^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[@#$%^&+!=])(?=.{8,}).*$/
@@ -35,7 +35,8 @@ declare global {
       return ErrorHandler("User already exists", 400, req, res);
     }
     const newUser = await User.create({
-      name,
+      firstName,
+      lastName,
       email,
       password,
       phone,
