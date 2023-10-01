@@ -137,3 +137,457 @@
 {"date":"2023-09-15T17:48:49.752Z","level":"error","message":"Invalid credentials","method":"POST","service":"user-service","url":"/login"}
 {"date":"2023-09-15T17:49:12.360Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/auth/updatePassword"}
 {"date":"2023-09-15T17:49:20.112Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:17:38.866Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:17:39.258Z","level":"error","message":"User does not exist","method":"POST","service":"user-service","url":"/login"}
+{"date":"2023-09-17T18:18:29.117Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:18:29.422Z","level":"error","message":"User does not exist","method":"POST","service":"user-service","url":"/login"}
+{"date":"2023-09-17T18:18:30.896Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:18:31.208Z","level":"error","message":"User does not exist","method":"POST","service":"user-service","url":"/login"}
+{"date":"2023-09-17T18:19:26.666Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:20:14.869Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:30:30.273Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-17T18:30:36.076Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:31:39.520Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:32:00.239Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:32:01.233Z","level":"error","message":"Profile validation failed: profilePic: Path `profilePic` is required., address: Path `address` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:35:15.907Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:35:16.236Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:39:59.255Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:39:59.596Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:42:32.183Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:42:38.891Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:42:39.199Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:43:25.108Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:43:25.440Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:50:40.577Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:50:43.541Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:52:13.388Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:52:13.708Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:55:18.066Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:56:13.944Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:56:14.863Z","level":"error","message":"Profile already exist. Update instead of creating new","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T18:57:05.983Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T18:57:06.890Z","level":"error","message":"Profile validation failed: address: Path `address` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:02:05.252Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:02:21.526Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:02:22.444Z","level":"error","message":"Profile already exist. Update instead of creating new","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:04:18.182Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:04:29.173Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:04:30.106Z","level":"error","message":"Profile already exist. Update instead of creating new","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:04:55.111Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:04:56.039Z","level":"error","message":"Profile validation failed: address: Path `address` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:15:44.503Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:15:45.405Z","level":"error","message":"Profile validation failed: profilePic: Path `profilePic` is required., dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:17:25.613Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:17:26.594Z","level":"error","message":"Profile validation failed: profilePic: Path `profilePic` is required., dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:18:39.418Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:18:40.344Z","level":"error","message":"Profile validation failed: profilePic: Path `profilePic` is required., dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:19:46.911Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:19:48.149Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:21:02.744Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:21:03.644Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:22:02.450Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:42:52.854Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:42:53.836Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:44:42.600Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:44:43.543Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:46:17.569Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:46:18.533Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:47:11.125Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:47:12.047Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:47:50.081Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:47:50.995Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:49:44.984Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:49:46.002Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:51:42.528Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:51:55.736Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:51:56.862Z","level":"error","message":"Profile already exist. Update instead of creating new","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:55:56.490Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:55:57.784Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:58:29.252Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:58:30.445Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T19:59:53.621Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T19:59:54.710Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:01:13.802Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:01:14.761Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:01:49.784Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:01:50.775Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:03:36.673Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:03:37.678Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:04:15.782Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:04:16.778Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:04:34.256Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:04:35.194Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:05:00.685Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:05:01.686Z","level":"error","message":"Profile validation failed: dob: Path `dob` is required., country: Path `country` is required., city: Path `city` is required., address: Path `address` is required., zipCode: Path `zipCode` is required.","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-17T20:06:16.722Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-17T20:06:17.657Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/createProfile"}
+{"date":"2023-09-18T13:59:00.165Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T13:59:00.525Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T13:59:13.039Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T13:59:13.267Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T13:59:47.793Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T13:59:48.019Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T13:59:49.446Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T13:59:49.675Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:00:26.050Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:00:26.376Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:01:20.609Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:01:20.874Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:01:57.136Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:01:57.593Z","level":"error","message":"slugify: string argument expected","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:06:26.234Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:06:26.748Z","level":"error","message":"Product validation failed: images: Path `images` is required.","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:07:31.000Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:08:25.904Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:08:45.564Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:08:46.004Z","level":"error","message":"slugify: string argument expected","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T14:08:57.938Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:39:06.368Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:40:28.715Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T14:57:52.131Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T14:57:52.375Z","level":"error","message":"Cannot read properties of undefined (reading '0')","method":"POST","service":"user-service","url":"/get"}
+{"date":"2023-09-18T14:59:30.855Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:00:25.914Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:00:52.092Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:02:13.712Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:03:26.416Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:03:52.408Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:05:50.042Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:05:53.108Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:06:45.121Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:06:47.142Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:07:24.812Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:07:39.531Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:09:33.129Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:09:33.522Z","level":"error","message":"Cannot read properties of undefined (reading '0')","method":"POST","service":"user-service","url":"/get"}
+{"date":"2023-09-18T15:11:23.120Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:12:04.574Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:13:01.404Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:13:07.783Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:13:40.706Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:15:01.640Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:15:19.329Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:15:33.065Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:15:40.699Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:17:19.801Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:17:29.526Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:17:44.004Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:42:50.858Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:43:21.424Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:43:21.911Z","level":"error","message":"Cannot do inclusion on field slug in exclusion projection","method":"POST","service":"user-service","url":"/get"}
+{"date":"2023-09-18T15:43:55.472Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:46:09.831Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:48:09.836Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:49:51.557Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T15:53:59.969Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T15:54:00.455Z","level":"error","message":"slugify: string argument expected","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T15:55:03.856Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T15:58:12.821Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T15:58:13.085Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T15:58:15.506Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T15:58:15.724Z","level":"error","message":"Something went wrong!","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T15:58:31.710Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:03:16.222Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:03:16.923Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:04:36.810Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:04:37.532Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:06:43.325Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:06:44.045Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:08:12.607Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:08:13.320Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:11:35.638Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:11:36.368Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:13:54.505Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:13:55.220Z","level":"error","message":"Cannot read properties of undefined (reading 'slug')","method":"POST","service":"user-service","url":"/create"}
+{"date":"2023-09-18T16:14:46.824Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/create"}
+{"date":"2023-09-18T16:29:38.812Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/create/5087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:30:15.676Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/update/5087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:30:40.057Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:30:41.352Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:31:00.438Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/5087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:31:54.519Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/5087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:31:54.762Z","level":"error","message":"Invalid Product id","method":"PUT","service":"user-service","url":"/update/5087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:32:04.262Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:32:04.716Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:33:34.898Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:33:35.373Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:28.889Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:29.353Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:47.162Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:47.590Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:48.818Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T16:34:49.281Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:02.135Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:02.787Z","level":"error","message":"Something went wrong!","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:41.341Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:41.562Z","level":"error","message":"Something went wrong!","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:42.494Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:07:42.729Z","level":"error","message":"Something went wrong!","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:19.308Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:19.793Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:21.384Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:21.832Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:48.776Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:49.247Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:50.197Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:09:50.649Z","level":"error","message":"slugify: string argument expected","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:15:50.923Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:15:51.892Z","level":"error","message":"Plan executor error during findAndModify :: caused by :: Cannot apply $addToSet to non-array field. Field named 'brand' has non-array type string","method":"PUT","service":"user-service","url":"/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:16:23.676Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:18:44.451Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:19:02.871Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:22:53.428Z","level":"info","message":"Request received","method":"DELETE","service":"user-service","url":"/product/update/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:23:10.244Z","level":"info","message":"Request received","method":"DELETE","service":"user-service","url":"/product/delete/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:23:10.759Z","level":"error","message":"slugify: string argument expected","method":"DELETE","service":"user-service","url":"/delete/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T17:24:03.828Z","level":"info","message":"Request received","method":"DELETE","service":"user-service","url":"/product/delete/65087777dd1480f8de6e6fbe"}
+{"date":"2023-09-18T18:45:40.681Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get?page=2"}
+{"date":"2023-09-18T18:46:55.052Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get?page=2"}
+{"date":"2023-09-18T18:47:34.406Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get?page=2"}
+{"date":"2023-09-18T18:47:47.246Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/product/get"}
+{"date":"2023-09-18T19:01:59.262Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:01:59.404Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:01:59.415Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:01:59.421Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:01:59.428Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:02:00.027Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:02:09.735Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:02:09.770Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:02:09.774Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:02:09.777Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:02:09.785Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:02:09.963Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:02:53.754Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:02:53.781Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:02:53.785Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:02:53.791Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:02:53.794Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:02:53.938Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:04:18.220Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:04:18.246Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:04:18.250Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:04:18.254Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:04:18.257Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:04:18.539Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:26:56.937Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/product/details/updated-performance-laptop-5193"}
+{"date":"2023-09-18T19:27:44.354Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:27:44.632Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:27:44.664Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:27:44.669Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:27:44.674Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:27:45.238Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:30:02.159Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:30:02.233Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:30:02.237Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:30:02.248Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:30:02.252Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:30:02.771Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:42:13.532Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/supplier/profile"}
+{"date":"2023-09-18T19:43:12.883Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/dropshipper/profile"}
+{"date":"2023-09-18T19:43:13.408Z","level":"error","message":"Role: supplier is not allowed to access resource","method":"GET","service":"user-service","url":"/profile"}
+{"date":"2023-09-18T19:45:34.064Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:34.088Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:34.096Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:34.101Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:36.587Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:45:36.626Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:36.629Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:36.632Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:36.635Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:37.024Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:45:39.452Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:45:39.477Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:39.481Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:39.488Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:39.491Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:39.691Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:45:45.564Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:45:45.591Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:45.597Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:45.600Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:45.602Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:45.797Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:45:49.180Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:45:49.209Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:49.213Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:49.216Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:49.220Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:49.402Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:45:51.801Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:45:51.829Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:45:51.830Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:45:51.832Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:45:51.834Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:45:52.025Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:30.568Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:30.594Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:30.597Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:30.600Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:30.604Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:30.806Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:30.823Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:30.847Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:30.853Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:30.855Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:30.858Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:30.867Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-16x16.png"}
+{"date":"2023-09-18T19:46:31.076Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:31.277Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:31.298Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:31.300Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:31.302Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:31.304Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:31.512Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:32.885Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:32.907Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:32.909Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:32.912Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:32.913Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:33.106Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:33.246Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:33.273Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:33.278Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:33.282Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:33.284Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:33.424Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:33.798Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:33.822Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:33.824Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:33.825Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:33.827Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:34.024Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:34.189Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:34.214Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:34.216Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:34.218Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:34.221Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:34.398Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:46:34.423Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:46:34.439Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:46:34.441Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:46:34.443Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:46:34.447Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:46:34.451Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-16x16.png"}
+{"date":"2023-09-18T19:46:34.656Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-18T19:47:35.966Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/supplier/profile"}
+{"date":"2023-09-18T19:48:41.885Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-18T19:49:05.354Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/"}
+{"date":"2023-09-18T19:49:05.457Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui.css"}
+{"date":"2023-09-18T19:49:05.465Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-init.js"}
+{"date":"2023-09-18T19:49:05.470Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-bundle.js"}
+{"date":"2023-09-18T19:49:05.473Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"date":"2023-09-18T19:49:05.850Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/api-docs/favicon-32x32.png"}
+{"date":"2023-09-19T17:46:33.871Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/token"}
+{"date":"2023-09-19T17:47:15.845Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/token"}
+{"date":"2023-09-19T17:48:48.244Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/token"}
+{"date":"2023-09-19T18:16:24.918Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/token1?code=https://e092e8.myshopify.com/admin/oauth/authorize?client_id=c9e61d0dcdaa1f8ecc05479d5b10c461%26scope=read_products,write_products%26redirect_uri=https://chat.openai.com/c/ed950cde-2a09-48a7-a7d5-9a00f13c2cb1"}
+{"date":"2023-09-19T18:16:27.209Z","level":"error","message":"getaddrinfo ENOTFOUND e092e8","method":"POST","service":"user-service","url":"/token1?code=https://e092e8.myshopify.com/admin/oauth/authorize?client_id=c9e61d0dcdaa1f8ecc05479d5b10c461%26scope=read_products,write_products%26redirect_uri=https://chat.openai.com/c/ed950cde-2a09-48a7-a7d5-9a00f13c2cb1"}
+{"date":"2023-09-19T18:16:57.831Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/token1?code=https://e092e8.myshopify.com/admin/oauth/authorize?client_id=c9e61d0dcdaa1f8ecc05479d5b10c461%26scope=read_products,write_products%26redirect_uri=https://chat.openai.com/c/ed950cde-2a09-48a7-a7d5-9a00f13c2cb1"}
+{"date":"2023-09-19T18:16:58.884Z","level":"error","message":"Request failed with status code 400","method":"POST","service":"user-service","url":"/token1?code=https://e092e8.myshopify.com/admin/oauth/authorize?client_id=c9e61d0dcdaa1f8ecc05479d5b10c461%26scope=read_products,write_products%26redirect_uri=https://chat.openai.com/c/ed950cde-2a09-48a7-a7d5-9a00f13c2cb1"}
+{"date":"2023-09-19T18:47:16.839Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:48:26.746Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:48:27.924Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:52:07.019Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:52:07.838Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:53:46.481Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:53:47.274Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:53:58.172Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:53:59.013Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:54:18.164Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:54:19.054Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:54:19.081Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:54:19.957Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:54:28.164Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:54:29.042Z","level":"error","message":"Response code 402 (Payment Required)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:57:38.974Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:57:40.175Z","level":"error","message":"Response code 401 (Unauthorized)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T18:58:28.643Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T18:58:29.650Z","level":"error","message":"Response code 401 (Unauthorized)","method":"POST","service":"user-service","url":"/importProducts"}
+{"date":"2023-09-19T19:01:06.219Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T19:05:23.024Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/getProducts"}
+{"date":"2023-09-19T19:09:40.393Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-19T19:30:48.756Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/getProducts"}
+{"date":"2023-09-19T19:31:03.112Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8755450511675"}
+{"date":"2023-09-19T19:31:06.313Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8755450511675"}
+{"date":"2023-09-19T19:32:55.999Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8755450511675"}
+{"date":"2023-09-19T19:47:42.274Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8755450511675"}
+{"date":"2023-09-19T19:48:14.146Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8755450511675"}
+{"date":"2023-09-20T06:31:42.816Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/webhooks"}
+{"date":"2023-09-20T06:31:44.989Z","level":"error","message":"Response code 406 (Not Acceptable)","method":"POST","service":"user-service","url":"/webhooks"}
+{"date":"2023-09-20T06:34:06.965Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/webhooks"}
+{"date":"2023-09-20T06:34:08.336Z","level":"error","message":"Response code 406 (Not Acceptable)","method":"POST","service":"user-service","url":"/webhooks"}
+{"date":"2023-09-20T12:38:31.362Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-20T12:38:31.936Z","level":"error","message":"User does not exist","method":"POST","service":"user-service","url":"/login"}
+{"date":"2023-09-20T12:42:42.569Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:42:42.576Z","level":"error","message":"Cannot read properties of undefined (reading 'match')","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:43:09.694Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:43:09.696Z","level":"error","message":"Cannot read properties of undefined (reading 'match')","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:43:32.761Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:43:32.767Z","level":"error","message":"Cannot read properties of undefined (reading 'match')","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:44:40.614Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:44:40.616Z","level":"error","message":"Cannot read properties of undefined (reading 'match')","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:44:40.642Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:44:40.643Z","level":"error","message":"Cannot read properties of undefined (reading 'match')","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:45:05.260Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:45:05.579Z","level":"error","message":"User validation failed: firstName: Path `firstName` is required., lastName: Path `lastName` is required.","method":"POST","service":"user-service","url":"/register"}
+{"date":"2023-09-20T12:45:49.447Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T12:46:44.496Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-20T12:47:04.468Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T12:49:18.166Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T13:35:52.569Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-20T13:43:26.322Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T13:47:14.553Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T13:56:23.545Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T14:08:37.449Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/supplier/createProfile"}
+{"date":"2023-09-20T15:52:35.136Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T15:54:11.352Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T15:54:14.567Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T15:55:27.649Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T16:03:24.368Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T16:03:24.919Z","level":"error","message":"ImportedProduct validation failed: category: Path `category` is required.","method":"POST","service":"user-service","url":"/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T16:04:17.071Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T16:48:01.949Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b1801bfe825f7c0ebab37"}
+{"date":"2023-09-20T16:51:12.284Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b1801bfe825f7c0ebab37"}
+{"date":"2023-09-20T16:54:25.256Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508610a1cb56cf97c868598"}
+{"date":"2023-09-20T16:54:52.716Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b1801bfe825f7c0ebab37"}
+{"date":"2023-09-20T16:54:53.145Z","level":"error","message":"Product not found or You do not have the required privileges to update import products","method":"PUT","service":"user-service","url":"/update/650b1801bfe825f7c0ebab37"}
+{"date":"2023-09-20T16:55:12.503Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:56:00.268Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:56:00.699Z","level":"error","message":"Supplier's Product Price: 7000 cannot be less than Selling Price: 400","method":"PUT","service":"user-service","url":"/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:56:40.992Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:56:41.421Z","level":"error","message":"Quantity: 1 should not be greater than Supplier's Product quantity: 20 ","method":"PUT","service":"user-service","url":"/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:57:48.354Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T16:59:45.039Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/importProduct/update/650b23c38e254bc283285694"}
+{"date":"2023-09-20T17:00:31.081Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/importProduct/add/6508615d1cb56cf97c86859c"}
+{"date":"2023-09-20T17:07:05.215Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/importProduct/all"}
+{"date":"2023-09-20T17:11:59.682Z","level":"info","message":"Request received","method":"DELETE","service":"user-service","url":"/importProduct/remove/650b252f8c44d76d270d5738"}
+{"date":"2023-09-20T17:15:24.306Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/register"}
+{"date":"2023-09-20T17:15:47.008Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/requestEmailToken"}
+{"date":"2023-09-20T17:15:49.609Z","level":"error","message":"The provided authorization grant is invalid, expired, or revoked","method":"POST","service":"user-service","url":"/requestEmailToken"}
+{"date":"2023-09-20T17:16:07.973Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/verifyEmail"}
+{"date":"2023-09-20T17:16:20.816Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-26T15:21:55.088Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-26T15:27:06.670Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProducts"}
+{"date":"2023-09-26T15:28:22.309Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T15:30:16.511Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/auth/login"}
+{"date":"2023-09-26T15:30:22.579Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T15:32:02.188Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:02:58.856Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:04:53.638Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:10:50.407Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:13:14.899Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:15:19.476Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:19:44.769Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:20:25.217Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/cook/meals"}
+{"date":"2023-09-26T16:24:57.165Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/cook/meals"}
+{"date":"2023-09-26T16:33:37.086Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:34:57.407Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/getProducts"}
+{"date":"2023-09-26T16:36:18.445Z","level":"info","message":"Request received","method":"POST","service":"user-service","url":"/shopify/importProduct/650b23c38e254bc283285694"}
+{"date":"2023-09-26T16:37:55.373Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8719309144348"}
+{"date":"2023-09-26T16:42:57.235Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8755450511675"}
+{"date":"2023-09-26T16:43:26.782Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8719319105820"}
+{"date":"2023-09-26T16:44:16.792Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8719319105820"}
+{"date":"2023-09-26T16:45:51.080Z","level":"info","message":"Request received","method":"PUT","service":"user-service","url":"/shopify/updateProduct/8719319105820"}
+{"date":"2023-09-26T16:53:19.096Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8719309144348"}
+{"date":"2023-09-26T16:53:20.721Z","level":"error","message":"Response code 404 (Not Found)","method":"GET","service":"user-service","url":"/product/8719309144348"}
+{"date":"2023-09-26T16:53:35.676Z","level":"info","message":"Request received","method":"GET","service":"user-service","url":"/shopify/product/8719319105820"}
